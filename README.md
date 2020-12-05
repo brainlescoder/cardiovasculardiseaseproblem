@@ -1,4 +1,4 @@
-# cardio_vascular_disease_problem
+# Cardio_Vascular_Disease_Problem
 
 Features:
 1.	Age | Objective Feature | age | int (days)
