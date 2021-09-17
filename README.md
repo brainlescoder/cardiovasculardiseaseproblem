@@ -20,4 +20,5 @@ Used machine learning models.
 
 # Based on this classify the people who have the disease.
 
-This was an interesting one, thoroughly enjoyed it through out the project. 
+This was an interesting one, thoroughly enjoyed it through out the project..
+
